@@ -1,0 +1,20 @@
+[
+  {
+    "course_name": "그래픽디자인",
+    "year": "2025",
+    "semester": "2",
+    "grade": "A0"
+  },
+  {
+    "course_name": "모바일프로그래밍",
+    "year": "2025",
+    "semester": "1",
+    "grade": "B+"
+  },
+  {
+    "course_name": "사진편집기술",
+    "year": "2025",
+    "semester": "2",
+    "grade": "A+"
+  }
+]

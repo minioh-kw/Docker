@@ -1,0 +1,11 @@
+cat > docker-compose.yml << 'EOF'
+version: "3.9"
+services:
+  fastapi:
+    build: .
+    ports:
+      - "80:8000"
+    restart: always
+    volumes:
+      - ./courses.json:/app/courses.json
+EOF
